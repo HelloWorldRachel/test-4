@@ -15,16 +15,21 @@
     <script src="//d3js.org/d3.v4.min.js"></script>
     <script>
 
+        // Create data
+        function randomData(samples) {
+            var data = [],
+                random = d3.randomNormal();
+                
+            for (i = 0; i < samples; i++) {
+                data.push({
+                    x: random(),
+                    y: random()
+                });
+            }
+            return data;
+        }
 
-        // load data
-  d3.csv("cereal.csv", function(error, data) {
-
-  // change string (from CSV) into number format
-  data.forEach(function(d) {
-    d.Calories = +d.Calories;
-    d["Protein (g)"] = +d["Protein (g)"];
-
-  });
+        var data = randomData(300);
 
         var margin = { top: 20, right: 20, bottom: 30, left: 30 };
         width = 900 - margin.left - margin.right,
