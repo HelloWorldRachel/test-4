@@ -20,7 +20,7 @@ var svg=d3.select("body").append('svg')
           .append('g')
           .attr("transform","translate("+margin.left+","+margin.top+")");
 //get the data
-d3.csv("auto-mpg.csv",function(error,data){
+d3.csv("auto.csv",function(error,data){
         if (error) throw error;
         data.forEach(function(d){
           d.mpg=+d.mpg;
