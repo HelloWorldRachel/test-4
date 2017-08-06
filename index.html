@@ -39,33 +39,18 @@ y.domain(d3.extent(data,function(d){return d.mpg;}));
     
     
     
- /*
-   svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-    .append("text")
-      .attr("class", "label")
-      .attr("x", width)
-      .attr("y", -6)
-      .style("text-anchor", "end")
-      .text("Calories");
- */   
     
 //add the X axis
 svg.append("g")
-   .attr("class", "x axis")
+
   .attr("transform","translate( 0,"+height+")")
   .call(d3.axisBottom(x))
     .append("text")
-   .attr("class", "label")
   .text("horse power");
 // add the Y Axis
 svg.append("g")
-    .attr("class", "y axis")
   .call(d3.axisLeft(y))
     .append("text")
-   .attr("class", "label")
   .text("mpg");
 });
 </script>
