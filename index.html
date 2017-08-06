@@ -39,9 +39,9 @@ body {
   
 
 <script>
-var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+var margin = {top: 20, right: 20, bottom: 30, left: 40};
+var width = 960 - margin.left - margin.right;
+var height = 500 - margin.top - margin.bottom;
 
 /* 
  * value accessor - returns the value to encode for a given data object.
@@ -60,13 +60,13 @@ d3.svg.line()        => d3.line()
 var xValue = function(d) { return d.Calories;}, // data -> value
     xScale = d3.scaleLinear().range([0, width]), // value -> display
     xMap = function(d) { return xScale(xValue(d));}, // data -> display
-    xAxis = d3.axis().scale(xScale).orient("bottom");
+    xAxis = d3.axisScale(xScale).orient("bottom");
 
 // setup y
 var yValue = function(d) { return d["Protein (g)"];}, // data -> value
     yScale = d3.scaleLinear().range([height, 0]), // value -> display
     yMap = function(d) { return yScale(yValue(d));}, // data -> display
-    yAxis = d3.axis().scale(yScale).orient("left");
+    yAxis = d3.axisScale(yScale).orient("left");
 
 // setup fill color
 var cValue = function(d) { return d.Manufacturer;},
