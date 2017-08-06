@@ -24,7 +24,7 @@ d3.csv("auto.csv",function(error,data){
         if (error) throw error;
         data.forEach(function(d){
           d.mpg=+d.mpg;
-          d.weight=+d.weight;
+          d.hp=+d.hp;
         });
 //scale the range of the data
 x.domain(d3.extent(data,function(d){return d.hp;}));
