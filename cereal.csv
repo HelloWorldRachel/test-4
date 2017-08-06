@@ -1,0 +1,149 @@
+Cereal Name,Manufacturer,Type,Calories,Protein (g),Fat,Sodium,Dietary Fiber,Carbs,Sugars,Display Shelf,Potassium,Vitamins and Minerals,Serving Size Weight,Cups per Serving
+Non fat,Chobani,C,84,16,1,130,10,5,6,3,280,25,1,0.33
+Non fat,Greek,C,144,15,5,15,2,8,8,3,135,0,1,-1
+Non fat,Yoplait,C,84,16,1,260,9,7,5,3,320,25,1,0.33
+Non fat,Yoplait,C,60,16,0,140,14,8,0,3,330,25,1,0.5
+Peach,Dannon ,C,132,14,2,200,1,14,8,3,-1,25,1,0.75
+Peach,Stonyfield Farms,C,132,14,2,180,1.5,10.5,10,1,70,25,1,0.75
+Peach,Yoplait,C,132,14,0,125,1,11,14,2,30,25,1,1
+Strawberry,Stonyfield Farms,C,156,15,2,210,2,18,8,3,100,25,1.33,0.75
+Strawberry,Dannon ,C,108,14,1,200,4,15,6,1,125,25,1,0.67
+Strawberry,Dannon ,C,108,15,0,210,5,13,5,3,190,25,1,0.67
+Strawberry,Greek,C,144,13,2,220,0,12,12,2,35,25,1,0.75
+Blueberry,Stonyfield Farms,C,132,18,2,290,2,17,1,1,105,25,1,1.25
+Blueberry,Stonyfield Farms,C,144,13,3,210,0,13,9,2,45,25,1,0.75
+Blueberry,Stonyfield Farms,C,132,15,2,140,2,13,7,3,105,25,1,0.5
+Blueberry,Stonyfield Farms,C,132,13,1,180,0,12,13,2,55,25,1,1
+Blueberry,Dannon ,C,132,14,0,280,0,22,3,1,25,25,1,1
+Blueberry,Yoplait,C,120,14,0,290,1,21,2,1,35,25,1,1
+Blueberry,Yoplait,C,132,13,0,90,1,13,12,2,20,25,1,1
+Blueberry,Stonyfield Farms,C,132,13,1,180,0,12,13,2,65,25,1,1
+Blueberry,Yoplait,C,132,15,3,140,4,10,7,3,160,25,1,0.5
+Blueberry,Chobani,H,120,15,0,80,1,21,0,2,-1,0,1,1
+Blueberry,Yoplait,C,132,14,0,220,1,21,3,3,30,25,1,1
+Goat milk,Stonyfield Farms,C,120,14,1,140,2,11,10,3,120,25,1,0.75
+Goat milk,Dannon,C,120,14,0,190,1,18,5,3,80,25,1,0.75
+Goat milk,Yoplait,C,132,14,1,125,1,11,13,2,30,25,1,1
+Goat milk,Yoplait,C,132,13,0,200,1,14,11,1,25,25,1,0.75
+Goat milk,Yoplait,C,120,15,0,0,3,14,7,2,100,25,1,0.8
+Goat milk,Yoplait,C,144,15,0,240,5,14,12,3,190,25,1.33,0.67
+Goat milk,Dannon ,C,132,13,1,135,0,13,12,2,25,25,1,0.75
+Banana,Dannon ,C,120,14,0,45,0,11,15,1,40,25,1,0.88
+Banana,Stonyfield Farms,C,132,13,1,280,0,15,9,2,45,25,1,0.75
+Banana,Stonyfield Farms,C,120,15,1,140,3,15,5,3,85,25,1,0.88
+Banana,Stonyfield Farms,C,132,15,0,170,3,17,3,3,90,25,1,0.25
+Banana,Stonyfield Farms,C,144,15,3,75,3,13,4,3,100,25,1,0.33
+Banana,Greek,C,144,13,2,220,1,12,11,2,45,25,1,1
+Blueberry,Stonyfield Farms,C,132,15,1,250,1.5,11.5,10,1,90,25,1,0.75
+Blueberry,Post,C,132,13,0,180,0,14,11,1,35,25,1,1.33
+Blueberry,Yoplait,C,132,14,1,170,1,17,6,3,60,100,1,-1
+Blueberry,Yoplait,C,168,15,1,170,2,20,9,3,95,100,1.3,0.75
+Peach,Stonyfield Farms,C,132,14,1,260,0,21,3,2,40,25,1,1.5
+Peach,Greek,C,120,16,2,150,2,12,6,2,95,25,1,0.67
+Peach,Stonyfield Farms,C,132,14,1,180,0,12,12,2,55,25,1,1
+Peach,Dannon ,H,120,16,1,0,0,16,3,2,95,25,1,-1
+Non fat,Yoplait,C,192,15,2,150,3,17,13,3,160,25,1.5,0.67
+Non fat,Stonyfield Farms,C,120,14,1,220,2,15,6,1,90,25,1,1
+Non fat,Yoplait,C,144,14,1,190,0,15,9,2,40,25,1,0.67
+Non fat,Yoplait,C,168,15,2,220,3,21,7,3,130,25,1.33,0.67
+Non fat,Yoplait,C,108,15,0,170,3,18,2,3,90,25,1,-1
+Whole milk,Stonyfield Farms,C,156,15,2,170,1.5,13.5,10,3,120,25,1.25,0.5
+Whole milk,Dannon ,C,144,15,1,200,6,11,14,3,260,25,1.33,0.67
+Whole milk,Yoplait,C,120,15,0,320,1,20,3,3,45,100,1,1
+Whole milk,Greek,C,60,13,0,0,0,13,0,3,15,0,0.5,1
+Whole milk,Greek,C,60,14,0,0,1,10,0,3,50,0,0.5,-1
+Whole milk,Greek,C,120,16,1,135,2,14,6,3,110,25,1,0.5
+Whole milk,Greek,H,120,17,2,0,2.7,-1,-1,1,110,0,1,0.67
+Whole milk,Yoplait,C,144,15,1,210,5,14,12,2,240,25,1.33,0.75
+Whole milk,Stonyfield Farms,C,120,15,2,140,2.5,10.5,8,3,140,25,1,0.5
+Whole milk,Yoplait,C,108,14,0,0,2,15,6,3,110,25,1,0.5
+Whole milk,Dannon ,C,132,13,0,240,0,23,2,1,30,25,1,1.13
+Low fat,Yoplait,C,132,14,0,290,0,22,3,1,35,25,1,1
+Low fat,Chobani,C,96,14,0,0,3,16,0,1,95,0,0.83,-1
+Low fat,Chobani,C,108,15,0,0,4,19,0,1,140,0,1,0.67
+Low fat,Chobani,C,108,15,0,0,3,20,0,1,120,0,1,0.67
+Low sugar,Yoplait,C,132,14,1,70,1,9,15,2,40,25,1,0.75
+Non fat,Yoplait,C,132,18,0,230,1,16,3,1,55,25,1,1
+Strawberry,Chobani,C,108,14,0,15,3,15,5,2,90,25,1,-1
+Strawberry,Stonyfield Farms,C,132,14,1,200,0,21,3,3,35,100,1,1
+Strawberry,Stonyfield Farms,C,168,15,1,190,4,15,14,3,230,100,1.5,1
+Strawberry,Stonyfield Farms,C,120,15,1,200,3,16,3,3,110,100,1,1
+Strawberry,Stonyfield Farms,C,132,14,1,250,0,21,3,3,60,25,1,0.75
+Strawberry,Stonyfield Farms,C,132,13,1,140,0,13,12,2,25,25,1,1
+No sugar,Dannon ,C,120,15,1,230,3,17,3,1,115,25,1,0.67
+No sugar,Stonyfield Farms,C,120,15,1,200,3,17,3,1,110,25,1,1
+No sugar,Stonyfield Farms,C,132,14,1,200,1,16,8,1,60,25,1,0.75
+Non fat,Greek,,132,16,,,,,,,,,,
+Non fat,Yoplait,,84,15,,,,,,,,,,
+Non fat,Yoplait,,144,16,,,,,,,,,,
+Non fat,Dannon ,,84,16,,,,,,,,,,
+Peach,Stonyfield Farms,,60,14,,,,,,,,,,
+Peach,Yoplait,,132,14,,,,,,,,,,
+Peach,Stonyfield Farms,,132,14,,,,,,,,,,
+Strawberry,Dannon ,,132,15,,,,,,,,,,
+Strawberry,Dannon ,,156,14,,,,,,,,,,
+Strawberry,Greek,,108,15,,,,,,,,,,
+Strawberry,Stonyfield Farms,,108,13,,,,,,,,,,
+Blueberry,Stonyfield Farms,,144,18,,,,,,,,,,
+Blueberry,Stonyfield Farms,,132,13,,,,,,,,,,
+Blueberry,Stonyfield Farms,,144,15,,,,,,,,,,
+Blueberry,Dannon ,,132,13,,,,,,,,,,
+Blueberry,Yoplait,,132,14,,,,,,,,,,
+Blueberry,Yoplait,,132,14,,,,,,,,,,
+Blueberry,Stonyfield Farms,,120,13,,,,,,,,,,
+Blueberry,Yoplait,,132,13,,,,,,,,,,
+Blueberry,Chobani,,132,15,,,,,,,,,,
+Blueberry,Yoplait,,132,15,,,,,,,,,,
+Blueberry,Stonyfield Farms,,120,14,,,,,,,,,,
+Goat milk,Dannon,,132,14,,,,,,,,,,
+Goat milk,Yoplait,,120,14,,,,,,,,,,
+Goat milk,Yoplait,,120,14,,,,,,,,,,
+Goat milk,Yoplait,,132,13,,,,,,,,,,
+Goat milk,Yoplait,,132,15,,,,,,,,,,
+Goat milk,Dannon ,,120,15,,,,,,,,,,
+Goat milk,Dannon ,,144,13,,,,,,,,,,
+Banana,Stonyfield Farms,,132,14,,,,,,,,,,
+Banana,Stonyfield Farms,,120,13,,,,,,,,,,
+Banana,Stonyfield Farms,,132,15,,,,,,,,,,
+Banana,Stonyfield Farms,,120,15,,,,,,,,,,
+Banana,Greek,,132,15,,,,,,,,,,
+Banana,Stonyfield Farms,,144,13,,,,,,,,,,
+Blueberry,Post,,144,15,,,,,,,,,,
+Blueberry,Yoplait,,132,13,,,,,,,,,,
+Blueberry,Yoplait,,132,14,,,,,,,,,,
+Blueberry,Stonyfield Farms,,132,15,,,,,,,,,,
+Peach,Greek,,168,14,,,,,,,,,,
+Peach,Stonyfield Farms,,132,16,,,,,,,,,,
+Peach,Dannon ,,120,14,,,,,,,,,,
+Peach,Yoplait,,132,16,,,,,,,,,,
+Non fat,Stonyfield Farms,,120,15,,,,,,,,,,
+Non fat,Yoplait,,192,14,,,,,,,,,,
+Non fat,Yoplait,,120,14,,,,,,,,,,
+Non fat,Yoplait,,144,15,,,,,,,,,,
+Non fat,Stonyfield Farms,,168,15,,,,,,,,,,
+Whole milk,Dannon ,,108,15,,,,,,,,,,
+Whole milk,Yoplait,,156,15,,,,,,,,,,
+Whole milk,Greek,,144,15,,,,,,,,,,
+Whole milk,Greek,,120,13,,,,,,,,,,
+Whole milk,Greek,,60,14,,,,,,,,,,
+Whole milk,Greek,,60,16,,,,,,,,,,
+Whole milk,Yoplait,,120,17,,,,,,,,,,
+Whole milk,Stonyfield Farms,,120,15,,,,,,,,,,
+Whole milk,Yoplait,,144,15,,,,,,,,,,
+Whole milk,Dannon ,,120,14,,,,,,,,,,
+Whole milk,Yoplait,,108,13,,,,,,,,,,
+Low fat,Chobani,,132,14,,,,,,,,,,
+Low fat,Chobani,,132,14,,,,,,,,,,
+Low fat,Chobani,,96,15,,,,,,,,,,
+Low fat,Yoplait,,108,15,,,,,,,,,,
+Low sugar,Yoplait,,108,14,,,,,,,,,,
+Non fat,Chobani,,132,18,,,,,,,,,,
+Strawberry,Stonyfield Farms,,132,14,,,,,,,,,,
+Strawberry,Stonyfield Farms,,108,14,,,,,,,,,,
+Strawberry,Stonyfield Farms,,132,15,,,,,,,,,,
+Strawberry,Stonyfield Farms,,168,15,,,,,,,,,,
+Strawberry,Stonyfield Farms,,120,14,,,,,,,,,,
+Strawberry,Dannon ,,132,13,,,,,,,,,,
+No sugar,Stonyfield Farms,,132,15,,,,,,,,,,
+No sugar,Stonyfield Farms,,120,15,,,,,,,,,,
+No sugar,Yoplait,,120,14,,,,,,,,,,
