@@ -27,15 +27,15 @@ d3.csv("auto.csv",function(error,data){
           d.weight=+d.weight;
         });
 //scale the range of the data
-x.domain(d3.extent(data,function(d){return d.mpg;}));
-y.domain(d3.extent(data,function(d){return d.weight;}));
+x.domain(d3.extent(data,function(d){return d.hp;}));
+y.domain(d3.extent(data,function(d){return d.mpg;}));
  //add the scatterplot
  svg.selectAll("dot")
      .data(data)
      .enter().append("circle")
      .attr("r",5)
-     .attr("cx",function(d){return x(d.mpg);})
-     .attr("cy",function(d){return y(d.weight);});
+     .attr("cx",function(d){return x(d.hp);})
+     .attr("cy",function(d){return y(d.mpg);});
 //add the x axis
 svg.append("g")
   .attr("transform","translate( 0,"+height+")")
